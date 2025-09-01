@@ -23,23 +23,23 @@ Players pilot a spaceship, fend off enemies, collect power-ups, avoid obstacles,
 ### 1. Clone the repository
 
 
-##🎮 Controls
-🚀 Movement
+## 🎮 Controls
+# 🚀 Movement
 
-- **W / S → Move forward / backward
-- **A / D → Rotate left / right
-- **Arrow Up / Down → Move up / down
+- W / S → Move forward / backward
+- A / D → Rotate left / right
+- Arrow Up / Down → Move up / down
 
-🔫 Shooting
+# 🔫 Shooting
 
-- **Spacebar → Shoot
-- **Shift + Left Arrow → Toggle shooting mode (single / spread)
+- Spacebar → Shoot
+- Shift + Left Arrow → Toggle shooting mode (single / spread)
 
-🎥 Camera & Modes
+# 🎥 Camera & Modes
 
-- **Right Mouse Click → Toggle camera (first-person / third-person)
-- **V → Switch camera view
-- **F → Toggle auto-aim
+- Right Mouse Click → Toggle camera (first-person / third-person)
+- V → Switch camera view
+- F → Toggle auto-aim
 
 🎯 Game State
 
