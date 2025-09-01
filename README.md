@@ -18,31 +18,32 @@ Players pilot a spaceship, fend off enemies, collect power-ups, avoid obstacles,
 
 ---
 
-##  Requirements & Setup
-
-### 1. Clone the repository
-
-
 ## 🎮 Controls
-# 🚀 Movement
+### 🚀 Movement
 
 - W / S → Move forward / backward
 - A / D → Rotate left / right
 - Arrow Up / Down → Move up / down
 
-# 🔫 Shooting
+### 🔫 Shooting
 
 - Spacebar → Shoot
 - Shift + Left Arrow → Toggle shooting mode (single / spread)
 
-# 🎥 Camera & Modes
+### 🎥 Camera & Modes
 
 - Right Mouse Click → Toggle camera (first-person / third-person)
 - V → Switch camera view
 - F → Toggle auto-aim
 
-🎯 Game State
+### 🎯 Game State
 
-- **P → Pause / Resume
-- **R → Restart game
-- **C → Toggle cheat mode
+- P → Pause / Resume
+- R → Restart game
+- C → Toggle cheat mode
+##  Requirements & Setup
+
+### 1. Clone the repository
+```bash
+git clone https://github.com/amitsutradhar02/3D_Space_Shooting_Game.git
+cd 3D_Space_Shooting_Game
